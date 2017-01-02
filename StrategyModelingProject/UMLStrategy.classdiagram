@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="4e5e32bb-67a7-4e12-8c0f-c2c3db2269d7" name="UMLStrategy" linkedPackageId="92c3bc58-86b4-403e-b5d7-25837813b4aa" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="eace12e6-30e9-4c0d-b13e-bbd5a3d8256d">
+      <profileInstance Id="c5109daa-2983-4cb7-81fb-b137a35d062b" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="771a5aae-05dd-4e6a-a47c-9dc3a337887a">
+      <profileInstance Id="cb834bb9-482a-4511-a7fe-d826f35aaf7c" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="313925d8-3a8f-4eac-93e9-f918cba84e8d" name="Class1" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="22f027e9-b164-4ae7-81d5-cf697458ba2f" />
+      </class>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="92c3bc58-86b4-403e-b5d7-25837813b4aa" name="StrategyModelingProject">
+    <elementDefinition Id="cacd7264-04c1-4e2d-8f92-580d2ffd0a88" />
+  </package>
+</logicalClassDesignerModel>

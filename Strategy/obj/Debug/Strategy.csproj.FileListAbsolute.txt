@@ -1,0 +1,12 @@
+c:\users\jpovi_000\documents\visual studio 2012\Projects\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\jpovi_000\documents\visual studio 2012\Projects\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\jpovi_000\documents\visual studio 2012\Projects\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\jpovi_000\documents\visual studio 2012\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\jpovi_000\documents\visual studio 2012\Projects\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\jpovi_000\documents\visual studio 2012\Projects\Strategy\Strategy\obj\Debug\Strategy.pdb
+C:\Users\darbas\Desktop\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\darbas\Desktop\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\darbas\Desktop\Strategy\Strategy\obj\Debug\Strategy.pdb
+C:\Users\jpovi_000\Desktop\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\jpovi_000\Desktop\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\jpovi_000\Desktop\Strategy\Strategy\obj\Debug\Strategy.pdb
